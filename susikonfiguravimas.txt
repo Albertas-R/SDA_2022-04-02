@@ -1,0 +1,9 @@
+1. cd ..
+2. cd .\xampp\
+3. cd .\htdocs\
+4. git clone https://github.com/vladasko-g/sda-react.git
+5. cd .\sda-react\
+6. git checkout react-0
+7. npm i
+8. npm i react react-dom
+9. npm i --save-dev @babel/preset-react
